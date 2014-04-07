@@ -1,6 +1,7 @@
 <project name="MyProject" default="dist" basedir=".">
     <description>
         simple example build file
+	maaster progress further
     </description>
   <!-- set global properties for this build -->
   <property name="src" location="src"/>
